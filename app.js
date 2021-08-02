@@ -12,6 +12,4 @@ const printProfileData = profileDataArr => {
   profileDataArr.forEach(profileItem => console.log(profileItem));
 };
 
-printProfileData(profileDataArgs);
 
-var testDevelop = process.argv.slice(3)
